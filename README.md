@@ -1,4 +1,4 @@
-PROXY
+## ***Chương trình Get proxy `HTTP` `HTTPS` `SOCKS4` `SOCKS5`***
 ### api proxy
 ```
 https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=1000&country=all&ssl=all&anonymity=all
